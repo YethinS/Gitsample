@@ -1,7 +1,12 @@
 Hello how are u..
 hey there..
+<<<<<<< HEAD
 
 hey man
 
 
 
+=======
+Hey sweety.
+Hey girl.
+>>>>>>> feature
